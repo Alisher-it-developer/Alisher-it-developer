@@ -40,19 +40,6 @@ Building modern web applications and productivity solutions for businesses.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hicode&show_icons=true&theme=tokyonight" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hicode&theme=tokyonight" />
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
