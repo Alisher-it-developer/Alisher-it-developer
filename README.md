@@ -1,16 +1,73 @@
-## Hi there 👋
+# 👋 Hi, I'm Ali sher
 
-<!--
-**Alisher-it-developer/Alisher-it-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+🚀 Full Stack Developer | Microsoft Office Add-ins | Google Workspace Add-ons | AI Solutions
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Building modern web applications and productivity solutions for businesses.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 About Me
+
+- 🔭 I build **Office Add-ins, Google Add-ons & Full Stack Web Solutions**
+- 🤖 Interested in **AI-powered applications**
+- 🌐 Creating scalable and user-friendly web experiences
+- 🚀 Passionate about clean code and modern technologies
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,typescript,javascript,html,css,tailwind,git,github,vscode,mongodb,azure" />
+
+</p>
+
+---
+
+## 📦 What I Build
+
+| Service | Description |
+|---|---|
+| 🏢 Office Add-ins | Custom Microsoft Word, Excel, Outlook Add-ins |
+| 🌐 Google Add-ons | Workspace automation solutions |
+| ⚡ Full Stack Apps | Modern scalable web applications |
+| 🤖 AI Solutions | Intelligent business automation |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hicode&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hicode&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hicode">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
