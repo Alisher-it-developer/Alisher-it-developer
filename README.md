@@ -43,16 +43,14 @@ Building modern web applications and productivity solutions for businesses.
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="center" style="display:flex; justify-content:center; align-items:center; gap:10px;">
 
 <a href="https://www.linkedin.com/in/ali-sher-developer" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-&nbsp;&nbsp;
-
 <a href="https://www.fiverr.com/s/LdVrgdL" target="_blank">
-<img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
 </a>
 
 </p>
